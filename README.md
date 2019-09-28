@@ -1,7 +1,7 @@
 # Web-Programming-PHP
 
 WP Eatery, Algonquin College, Ottawa, 2019
-# Developed a dynamic website for a restaurant using PHP and SQL
+• Developed a dynamic website for a restaurant using PHP and SQL
 • Used object-oriented capabilities of PHP to define a class, and add methods and properties to that class
 • Created and troubleshooted database connections using PHP
 • Accepted, saved and deleted user data to a database
